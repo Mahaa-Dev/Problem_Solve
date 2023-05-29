@@ -1,0 +1,1 @@
+These are just a few of the most commonly used methods and functions in file handling in Python. There are many others, so I encourage you to explore the official Python documentation to learn more!
